@@ -1,26 +1,39 @@
-# Logs
+# Ignore environment variable files
 .env
-logs
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
 *.log
+logs/
+
+# Ignore build output
+dist/
+build/
+
+# Ignore IDE/editor-specific files
+.vscode/
+.idea/
+*.swp
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore npm/yarn debug files
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
 
+# Ignore coverage output
+coverage/
 
-node_modules
-dist
-dist-ssr
-*.local
+# Ignore package-lock or yarn.lock (optional, only if not used in your workflow)
+# package-lock.json
+# yarn.lock
 
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
-.DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
