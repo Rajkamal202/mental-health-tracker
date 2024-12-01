@@ -14,7 +14,7 @@ Use this section to tell people about which versions of your project are current
 We take the security of Mental Health Tracker seriously. If you have discovered a security vulnerability in our project, please follow these steps to report it:
 
 1. **Do not** disclose the vulnerability publicly until it has been addressed by our team.
-2. Email us at security@mentalhealthtracker.com with a detailed description of the vulnerability.
+2. Email us at rajkamalds2022@gmail.com with a detailed description of the vulnerability.
 3. Include steps to reproduce the vulnerability, if possible.
 4. We will acknowledge receipt of your vulnerability report within 48 hours.
 5. We will send you regular updates about our progress.
